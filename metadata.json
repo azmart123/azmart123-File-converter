@@ -1,0 +1,5 @@
+{
+  "name": "File Converter Pro",
+  "description": "A sleek and modern file converter tool to simulate conversions between various formats like audio, video, and images. Upload a file, select the target format, and download the result.",
+  "requestFramePermissions": []
+}
